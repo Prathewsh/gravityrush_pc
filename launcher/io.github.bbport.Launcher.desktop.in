@@ -1,0 +1,7 @@
+[Desktop Entry]
+Type=Application
+Name=Gravity Rush
+Comment=Gravity Rush Remastered and Gravity Rush 2 launcher
+Exec=@LAUNCHER@
+Icon=applications-games
+Categories=Game;
